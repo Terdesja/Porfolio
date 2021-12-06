@@ -76,7 +76,7 @@
 .container {
     max-width: 2000px;
     margin: auto;
-    padding-left: 30px;
+    padding-left: 150px;
     background-color: gray;
 
     }
@@ -88,15 +88,14 @@
 
 .content {
     flex-basis: 50%;
-    min-width: 300px;
+    min-width: 200px;
    
 }
    
 .content img {
     border-radius: 50%;
     max-width: 100%;
-    padding: 10px 25%;
-    align-items: auto;
+    padding: 10px 30%;
    
 }
    
@@ -125,4 +124,6 @@
 .button:hover {
     background: #686868;
 }
-    
+
+
+
