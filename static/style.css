@@ -10,5 +10,34 @@
     height: 80px;
     display: block;
     background-color: #101010;
+
+}
+
+.inner-header {
+    width: 1000px;
+    height: 100%;
+    display: block;
+    margin: 0 auto;
+    background-color: red;
+}
+
+.Logo {
+    height: 100%;
+    display: table;
+    float: left;
+
+}
+
+.Logo h1 {
+    color: white;
+    height: 100%;
+    display: table-cell;
+    vertical-align: middle;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 32px;
+
+}
+
+.Logo h1 span {
     
 }
